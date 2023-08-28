@@ -1,0 +1,12 @@
+.Nav {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 2em 10em;
+  border: 3px solid black;
+  border-radius: 5px;
+}
+
+.Nav-snack {
+  padding: .2em;
+}
